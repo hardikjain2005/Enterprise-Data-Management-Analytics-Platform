@@ -1,0 +1,6 @@
+customer_code,first_name,last_name,phone,city,state,country,segment,signup_date
+CUST-1001,Lakshmi,Iyer,+919362950628,Noida,Uttar Pradesh,India,SMB,2025-11-23
+CUST-1002,Shreya,Wilson,+919134126396,New Delhi,Delhi,India,Retail,2025-06-01
+CUST-1003,David,Verma,+91-97978-08098,Pune,Maharashtra,India,Retail,2025-04-04
+CUST-1004,Maria,Kulkarni,+91-92714-32881,Kolkata,West Bengal,India,Retail,2024-06-08
+CUST-1005,Ananya,Khan,+919203848421,Mumbai,Maharashtra,India,Retail,2024-09-27

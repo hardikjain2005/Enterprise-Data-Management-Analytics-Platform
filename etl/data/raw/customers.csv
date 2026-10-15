@@ -1,0 +1,220 @@
+customer_code,first_name,last_name,email,phone,city,state,country,segment,signup_date
+CUST-1001,Lakshmi,Iyer,lakshmi.iyer@gmail.com,+919362950628,Noida,Uttar Pradesh,India,SMB,2025-11-23
+CUST-1002,Shreya,Wilson,shreya.wilson@gmail.com,+919134126396,New Delhi,Delhi,India,Retail,2025-06-01
+CUST-1003,David,Verma,david.verma@proton.me,+91-97978-08098,Pune,Maharashtra,India,Retail,2025-04-04
+CUST-1004,  maria ,Kulkarni, MARIA.KULKARNI@GMAIL.COM,+91-92714-32881,Kolkata,West Bengal,India,retail,2024-06-08
+CUST-1005,Ananya,Khan,ananya.khan@gmail.com,+919203848421,Mumbai,Maharashtra,India,Retail,2024-09-27
+CUST-1006,Aditya,Malhotra,aditya.malhotra@proton.me,+919506448196,Mumbai,Maharashtra,India,Retail,2025-10-05
+CUST-1007,Sarah,Fernandes,sarah.fernandes@proton.me,+919174684276,Pune,Maharashtra,India,Retail,2024-10-23
+CUST-1008,Sai,Chatterjee,sai.chatterjee@gmail.com,+91-95868-45604,Hyderabad,Telangana,India,Retail,2025-01-14
+CUST-1009,Pooja,Bose,pooja.bose@yahoo.com,+91-98339-53718,Noida,Uttar Pradesh,India,SMB,2024-06-24
+CUST-1010,Harpreet,Mukherjee,harpreet.mukherjee@outlook.com,93898 54268,Chennai,Tamil Nadu,India,SMB,2025-07-24
+CUST-1011,Pari,Menon,pari.menon@gmail.com,91344 67368,Pune,Maharashtra,India,Retail,2024-03-08
+CUST-1012,Ananya,Tan,ananya.tan@yahoo.com,+919636045484,Pune,Maharashtra,India,Corporate,2025-04-14
+CUST-1013,Rohan,Joshi,rohan.joshi@outlook.com,+91-97027-64446,Bengaluru,Karnataka,India,SMB,2025-03-14
+CUST-1014,Maria,Gill,maria.gill@yahoo.com,+91-92485-32577,Pune,Maharashtra,India,Retail,2024-02-18
+CUST-1015,Krishna,Reddy,krishna.reddy@outlook.com,+91-95532-90810,Kolkata,West Bengal,India,Retail,2025-09-02
+CUST-1016,Tanvi,George,tanvi.george@yahoo.com,+91-91123-27652,Dubai,Dubai,United Arab Emirates,Retail,2026-06-25
+CUST-1017,Harpreet,Kulkarni,harpreet.kulkarni@yahoo.com,+919566825638,Mumbai,Maharashtra,India,Retail,2026-01-09
+CUST-1018,Varun,Joshi,varun.joshi@proton.me,96451 19047,Kolkata,West Bengal,India,Corporate,2024-11-01
+CUST-1019,Lakshmi,Thomas,lakshmi.thomas@proton.me,95014 86939,Pune,Maharashtra,India,Retail,2026-03-08
+CUST-1020,Ayesha,Sharma,ayesha.sharma@proton.me,+919120912992,Bengaluru,Karnataka,India,Retail,2026-05-01
+CUST-1021,Ira,Mukherjee,ira.mukherjee@gmail.com,97091 94872,Bengaluru,Karnataka,India,Retail,2025-05-12
+CUST-1912,Nisha,Kapoor,nisha.kapoor@gmail.com,+919800011131,Mumbai,Maharashtra,India,SMB,15/07/2025
+CUST-1904,Sara,Ali,,,Hyderabad,Telangana,India,Retail,2025-05-15
+CUST-1022,Arjun,Wilson,arjun.wilson@outlook.com,96103 30567,Mumbai,Maharashtra,India,Retail,2025-06-24
+CUST-1058,Aadhya,Gupta,aadhya.gupta@hotmail.com,+91-99659-84448,Mumbai,Maharashtra,India,SMB,2026-01-29
+CUST-1023,David,Agarwal,david.agarwal@outlook.com,+91-99109-59828,Indore,Madhya Pradesh,India,Retail,2024-11-15
+CUST-1024,Nikhil,Fernandes,nikhil.fernandes@hotmail.com,+919584779555,Kochi,Kerala,India,Retail,2024-12-12
+CUST-1025,Vivaan,Lim,vivaan.lim@proton.me,+919336456621,Bengaluru,Karnataka,India,SMB,2024-03-01
+CUST-1911,Mohan,Joshi,mohan.joshi@gmail.com,+919800011130,Pune,Maharashtra,India,Retail,2025-02-30
+CUST-1026,Pari,Patel,pari.patel@gmail.com,+91-91760-82500,Ahmedabad,Gujarat,India,Retail,2025-05-12
+CUST-1027,Ananya,Wilson,ananya.wilson@outlook.com,+91-97131-52854,Noida,Uttar Pradesh,India,Retail,2025-04-29
+CUST-1028,Divya,Das,divya.das@gmail.com,+919562837684,Mumbai,Maharashtra,India,Retail,2026-06-03
+CUST-1029,Varun,Singh,varun.singh@gmail.com,+919881913386,Mumbai,Maharashtra,India,Corporate,2024-09-11
+CUST-1030,Saanvi,Das,saanvi.das@proton.me,+919552991960,Hyderabad,Telangana,India,Retail,2026-06-14
+CUST-1031,Arjun,Bansal,arjun.bansal@proton.me,98002 35246,Mumbai,Maharashtra,India,SMB,2024-04-05
+CUST-1032,Omar,Mukherjee,omar.mukherjee@outlook.com,+919616854671,Hyderabad,Telangana,India,Retail,2024-03-01
+CUST-1033,Aanya,D'Souza,aanya.dsouza@gmail.com,93847 59615,Singapore,,Singapore,SMB,2024-10-19
+CUST-1034,Swati,Brown,swati.brown@hotmail.com,+919418587604,Pune,Maharashtra,India,Retail,2026-01-23
+CUST-1035,  harpreet ,Singh, HARPREET.SINGH@YAHOO.COM,+919727255918,Mumbai,Maharashtra,India,corporate,2025-06-27
+CUST-1036,Aanya,Singh,aanya.singh@proton.me,+919299528037,Mumbai,Maharashtra,India,Retail,2026-06-01
+CUST-1037,Myra,Gill,myra.gill@gmail.com,+919711684318,Chandigarh,Chandigarh,India,Retail,2025-09-26
+CUST-1038,Sai,Sandhu,sai.sandhu@proton.me,94396 99535,New Delhi,Delhi,India,Retail,2026-01-03
+CUST-1039,Rahul,Mukherjee,rahul.mukherjee@yahoo.com,+91-98212-21887,Hyderabad,Telangana,India,Retail,2026-02-08
+CUST-1040,Arjun,Sharma,arjun.sharma@hotmail.com,97045 09817,New Delhi,Delhi,India,Retail,2024-08-06
+CUST-1041,Imran,Joshi,imran.joshi@outlook.com,91738 64104,Indore,Madhya Pradesh,India,Retail,2024-06-10
+CUST-1042,Manish,Wilson,manish.wilson@yahoo.com,+91-99666-16964,New Delhi,Delhi,India,Retail,2026-04-16
+CUST-1043,Gurpreet,Pillai,gurpreet.pillai@gmail.com,+919244193987,Indore,Madhya Pradesh,India,Corporate,2026-01-30
+CUST-1044,Gurpreet,Reddy,gurpreet.reddy@yahoo.com,+91-93261-61867,Bengaluru,Karnataka,India,Retail,2025-10-11
+CUST-1045,Aadhya,Thomas,aadhya.thomas@hotmail.com,+919154544899,Bengaluru,Karnataka,India,Retail,2024-10-10
+CUST-1907,Vijay,Kumar,vijay.kumar@,+919800011126,Jaipur,Rajasthan,India,Retail,2025-01-09
+CUST-1046,Aditya,Sharma,aditya.sharma@yahoo.com,97840 95277,Kolkata,West Bengal,India,Retail,2025-03-28
+CUST-1047,Gurpreet,Agarwal,gurpreet.agarwal@proton.me,91807 92472,Mumbai,Maharashtra,India,SMB,2024-06-01
+CUST-1048,Harpreet,Gupta,harpreet.gupta@yahoo.com,+919259014493,New Delhi,Delhi,India,Retail,2025-01-08
+CUST-1049,Aditya,Sheikh,aditya.sheikh@outlook.com,+919816114302,Gurugram,Haryana,India,SMB,2026-06-24
+CUST-1050,Divya,Ali,divya.ali@outlook.com,93541 94771,Indore,Madhya Pradesh,India,Corporate,2026-04-10
+CUST-1051,Diya,Sandhu,diya.sandhu@gmail.com,94566 81425,Pune,Maharashtra,India,Retail,2025-11-16
+CUST-1052,Shreya,Mukherjee,shreya.mukherjee@yahoo.com,+919852991721,Pune,Maharashtra,India,Corporate,2026-05-29
+CUST-1053,Farhan,Chatterjee,farhan.chatterjee@outlook.com,+919594246837,Ahmedabad,Gujarat,India,SMB,2026-06-11
+CUST-1054,Pari,Chatterjee,pari.chatterjee@gmail.com,+919527849588,Gurugram,Haryana,India,Corporate,2026-03-02
+CUST-1055,Kiara,Sheikh,kiara.sheikh@proton.me,+919675757257,Hyderabad,Telangana,India,Retail,2026-06-17
+CUST-1056,Aadhya,Kumar,aadhya.kumar@proton.me,+919385042337,Dubai,Dubai,United Arab Emirates,Retail,2024-12-19
+CUST-1057,Varun,Menon,varun.menon@hotmail.com,+919649136331,New Delhi,Delhi,India,Corporate,2024-07-13
+CUST-1058,Aadhya,Gupta,aadhya.gupta@hotmail.com,+91-99659-84448,Mumbai,Maharashtra,India,SMB,2026-01-29
+CUST-1059,  shreya ,Das, SHREYA.DAS@YAHOO.COM,98132 19781,Hyderabad,Telangana,India,smb,2025-11-10
+CUST-1060,Krishna,Pillai,krishna.pillai@proton.me,+919538508549,Bengaluru,Karnataka,India,SMB,2025-07-21
+CUST-1061,Ishaan,Das,ishaan.das@hotmail.com,+91-95071-04143,Gurugram,Haryana,India,Corporate,2025-09-22
+CUST-1062,Joseph,Pillai,joseph.pillai@hotmail.com,+919100435874,New Delhi,Delhi,India,Retail,2026-03-15
+CUST-1063,Maria,Hassan,maria.hassan@yahoo.com,+91-95747-65466,Chennai,Tamil Nadu,India,Retail,2026-03-23
+CUST-1064,Shreya,Rao,shreya.rao@gmail.com,+91-98128-07629,Bengaluru,Karnataka,India,Retail,2026-04-18
+CUST-1065,Omar,Mukherjee,omar.mukherjee@yahoo.com,+919313814138,Pune,Maharashtra,India,Retail,2025-05-01
+CUST-1066,Sarah,Patel,sarah.patel@hotmail.com,+91-97762-05431,Hyderabad,Telangana,India,SMB,2025-01-28
+CUST-1067,Zoya,Gill,zoya.gill@outlook.com,+919838328947,Pune,Maharashtra,India,SMB,2026-02-27
+CUST-1068,Reyansh,Agarwal,reyansh.agarwal@outlook.com,+91-98472-29579,Pune,Maharashtra,India,Retail,2024-09-12
+CUST-1069,Krishna,Malhotra,krishna.malhotra@outlook.com,+91-98168-06128,Kolkata,West Bengal,India,Retail,2024-11-20
+CUST-1011,Pari,Menon,pari.menon@gmail.com,91344 67368,Pune,Maharashtra,India,Retail,2024-03-08
+CUST-1070,Omar,Bansal,omar.bansal@proton.me,+919642001424,Ahmedabad,Gujarat,India,Corporate,2025-04-01
+CUST-1915,Ravi,Teja,ravi.teja@gmail.com,+919800011134,Hyderabad,Telangana,India,Enterprise,2025-05-05
+CUST-1071,Aanya,Kapoor,aanya.kapoor@hotmail.com,93654 71644,Bengaluru,Karnataka,India,Retail,2026-03-07
+CUST-1072,Ayesha,Chopra,ayesha.chopra@outlook.com,+91-91831-97117,Bengaluru,Karnataka,India,Retail,2024-12-09
+CUST-1916,Gita,Menon,gita.menon@gmail.com,+919800011135,Chennai,Tamil Nadu,India,Retail,2027-03-01
+CUST-1909,Tarun,Bansal,tarun bansal@yahoo.com,+919800011128,Noida,Uttar Pradesh,India,SMB,2025-03-03
+CUST-1073,Rahul,Wilson,rahul.wilson@gmail.com,+919348315126,Mumbai,Maharashtra,India,Retail,2024-08-07
+CUST-1074,Arjun,Sandhu,arjun.sandhu@hotmail.com,+919600282414,Bengaluru,Karnataka,India,Retail,2025-03-06
+CUST-1075,Kunal,Lim,kunal.lim@gmail.com,+91-99220-50912,Ahmedabad,Gujarat,India,Retail,2024-12-26
+CUST-1076,Ira,D'Souza,ira.dsouza@hotmail.com,+91-98888-07316,Chennai,Tamil Nadu,India,SMB,2024-08-13
+CUST-1077,Zoya,Chatterjee,zoya.chatterjee@yahoo.com,+919131165166,Hyderabad,Telangana,India,SMB,2026-03-28
+CUST-1913,,Thomas,a.thomas@gmail.com,+919800011132,Bengaluru,Karnataka,India,Retail,2025-04-18
+CUST-1078,Nikhil,Rao,nikhil.rao@hotmail.com,+91-97681-43326,Kochi,Kerala,India,Corporate,2025-08-29
+CUST-1910,Leela,Das,leela@@outlook.com,+919800011129,Kolkata,West Bengal,India,Retail,2025-03-28
+CUST-1079,Joseph,Verma,joseph.verma@gmail.com,92457 06210,Gurugram,Haryana,India,Retail,2024-09-23
+CUST-1080,Kunal,Menon,kunal.menon@outlook.com,94623 88455,Hyderabad,Telangana,India,Retail,2026-02-09
+CUST-1081,Divya,Joshi,divya.joshi@gmail.com,+91-99042-58674,Chennai,Tamil Nadu,India,Corporate,2024-12-24
+CUST-1082,Pari,Patel,pari.patel2@gmail.com,93140 61901,Chandigarh,Chandigarh,India,SMB,2024-09-01
+CUST-1083,  ishaan ,Kapoor, ISHAAN.KAPOOR@GMAIL.COM,+919334037646,New Delhi,Delhi,India,retail,2025-01-12
+CUST-1084,Aanya,Hassan,aanya.hassan@proton.me,+919871330207,Dubai,Dubai,United Arab Emirates,SMB,2024-11-14
+CUST-1085,Reyansh,Lim,reyansh.lim@gmail.com,+91-97182-57024,Indore,Madhya Pradesh,India,Corporate,2025-02-10
+CUST-1086,Neha,Das,neha.das@gmail.com,+91-99918-19497,New Delhi,Delhi,India,Retail,2026-03-02
+CUST-1087,Ira,Hassan,ira.hassan@gmail.com,97076 65448,Kolkata,West Bengal,India,Retail,2025-03-14
+CUST-1088,Karthik,Fernandes,karthik.fernandes@gmail.com,+919466394187,Chennai,Tamil Nadu,India,Retail,2025-05-16
+CUST-1089,Reyansh,Agarwal,reyansh.agarwal@yahoo.com,+919989817696,New Delhi,Delhi,India,Retail,2024-06-29
+CUST-1090,Varun,George,varun.george@yahoo.com,96778 58758,New Delhi,Delhi,India,Retail,2026-04-25
+CUST-1091,Varun,Lim,varun.lim@yahoo.com,93635 98427,Bengaluru,Karnataka,India,Retail,2026-06-21
+CUST-1092,Manish,Mukherjee,manish.mukherjee@hotmail.com,+919817461907,New Delhi,Delhi,India,Retail,2026-05-21
+CUST-1093,Rahul,Kumar,rahul.kumar@hotmail.com,+919956665975,Pune,Maharashtra,India,Retail,2025-09-02
+CUST-1094,Siddharth,Kulkarni,siddharth.kulkarni@proton.me,+919305145276,Mumbai,Maharashtra,India,SMB,2025-05-15
+CUST-1095,Gurpreet,Mukherjee,gurpreet.mukherjee@hotmail.com,+919627015393,Gurugram,Haryana,India,Retail,2024-10-28
+CUST-1096,Pari,Gill,pari.gill@outlook.com,+919724440558,Bengaluru,Karnataka,India,Retail,2024-12-18
+CUST-1097,Swati,Brown,swati.brown@yahoo.com,+919587205269,Bengaluru,Karnataka,India,Retail,2024-05-03
+CUST-1098,Varun,Das,varun.das@yahoo.com,96753 79544,Mumbai,Maharashtra,India,SMB,2024-07-15
+CUST-1099,Ananya,Kapoor,ananya.kapoor@yahoo.com,+91-99162-67011,Noida,Uttar Pradesh,India,Retail,2024-04-12
+CUST-1100,Saanvi,Deshpande,saanvi.deshpande@outlook.com,+919424557359,Bengaluru,Karnataka,India,Retail,2024-10-07
+CUST-1101,Aditya,Singh,aditya.singh@proton.me,+91-92355-91568,Bengaluru,Karnataka,India,SMB,2024-04-15
+CUST-1102,Aarav,Tan,aarav.tan@yahoo.com,+919572949775,Chennai,Tamil Nadu,India,Corporate,2024-09-15
+CUST-1103,Farhan,Iyer,farhan.iyer@gmail.com,+91-91795-45125,Hyderabad,Telangana,India,SMB,2024-06-04
+CUST-1104,Rohan,Tan,rohan.tan@yahoo.com,+919366493008,Mumbai,Maharashtra,India,SMB,2025-09-12
+CUST-1105,David,Ali,david.ali@outlook.com,+919508427798,Kolkata,West Bengal,India,Retail,2026-05-30
+CUST-1106,Maria,Agarwal,maria.agarwal@yahoo.com,+91-91646-71796,New Delhi,Delhi,India,SMB,2026-02-20
+CUST-1107,Ananya,Bose,ananya.bose@yahoo.com,+919268638768,Gurugram,Haryana,India,Retail,2024-06-09
+CUST-1903,Amit,Gupta,,+919800011122,New Delhi,Delhi,India,Retail,2025-04-02
+CUST-1905,Kabir,Singh,,+919800011124,Chennai,Tamil Nadu,India,SMB,2025-06-01
+CUST-1108,Aarav,Sandhu,aarav.sandhu@hotmail.com,+919604564682,Gurugram,Haryana,India,Retail,2025-12-24
+CUST-1109,Riya,Malhotra,riya.malhotra@gmail.com,93840 63364,Gurugram,Haryana,India,SMB,2025-11-08
+CUST-1110,Saanvi,Agarwal,saanvi.agarwal@gmail.com,+919795392488,New Delhi,Delhi,India,Retail,2024-05-25
+CUST-1111,  arjun ,Singh, ARJUN.SINGH@OUTLOOK.COM,+91-97389-23667,Kolkata,West Bengal,India,retail,2024-10-22
+CUST-1112,Manish,Iyer,manish.iyer@hotmail.com,+919851333320,Gurugram,Haryana,India,Retail,2025-07-06
+CUST-1113,Zoya,Bansal,zoya.bansal@gmail.com,+91-95638-87247,New Delhi,Delhi,India,SMB,2024-01-27
+CUST-1114,Sai,Chatterjee,sai.chatterjee@proton.me,91222 75263,New Delhi,Delhi,India,SMB,2024-10-02
+CUST-1115,Joseph,Gupta,joseph.gupta@outlook.com,+919799552991,Chennai,Tamil Nadu,India,Retail,2025-08-22
+CUST-1116,Swati,Chopra,swati.chopra@gmail.com,+919538460431,Chennai,Tamil Nadu,India,SMB,2026-05-28
+CUST-1117,Aanya,Khan,aanya.khan@hotmail.com,+91-94094-71503,Gurugram,Haryana,India,Retail,2026-02-17
+CUST-1118,Gurpreet,Gupta,gurpreet.gupta@hotmail.com,+919371011200,Mumbai,Maharashtra,India,Corporate,2025-02-17
+CUST-1119,  imran ,Sharma, IMRAN.SHARMA@PROTON.ME,+919158201193,Chennai,Tamil Nadu,India,retail,2026-02-13
+CUST-1120,Zoya,Bansal,zoya.bansal2@outlook.com,92406 74381,Bengaluru,Karnataka,India,Retail,2025-12-16
+CUST-1121,Zoya,Iyer,zoya.iyer@gmail.com,97537 70973,Dubai,Dubai,United Arab Emirates,SMB,2024-11-14
+CUST-1122,Gurpreet,Sharma,gurpreet.sharma@proton.me,93412 70488,Hyderabad,Telangana,India,Corporate,2025-04-17
+CUST-1123,Krishna,Reddy,krishna.reddy@hotmail.com,+91-94133-83963,Indore,Madhya Pradesh,India,Retail,2026-05-04
+CUST-1124,Farhan,Kapoor,farhan.kapoor@outlook.com,+919255308128,Hyderabad,Telangana,India,Corporate,2025-06-04
+CUST-1125,Shreya,Nair,shreya.nair@gmail.com,99482 62678,Bengaluru,Karnataka,India,Retail,2026-03-17
+CUST-1126,Imran,Kulkarni,imran.kulkarni@gmail.com,94205 71903,Bengaluru,Karnataka,India,Retail,2025-11-06
+CUST-1127,Zoya,Reddy,zoya.reddy@hotmail.com,+919470574014,Chennai,Tamil Nadu,India,SMB,2025-01-21
+CUST-1128,Tanvi,Menon,tanvi.menon@outlook.com,+91-93564-15500,Singapore,,Singapore,Retail,2026-03-05
+CUST-1129,Divya,Gupta,divya.gupta@yahoo.com,98572 32668,Noida,Uttar Pradesh,India,Retail,2025-11-10
+CUST-1130,Venkat,Reddy,venkat.reddy@hotmail.com,+91-92355-55899,Dubai,Dubai,United Arab Emirates,Retail,2026-06-09
+CUST-1131,  reyansh ,Bansal, REYANSH.BANSAL@GMAIL.COM,+919590622789,Chennai,Tamil Nadu,India,retail,2026-06-10
+CUST-1132,Venkat,Reddy,venkat.reddy@gmail.com,+919384566044,Chennai,Tamil Nadu,India,SMB,2025-10-27
+CUST-1133,Sai,Khan,sai.khan@proton.me,+91-94400-12324,Hyderabad,Telangana,India,Corporate,2025-05-14
+CUST-1134,Harpreet,Gupta,harpreet.gupta@proton.me,+91-97777-03980,Mumbai,Maharashtra,India,Retail,2024-08-20
+CUST-1908,Asha,Nair,asha.nair.gmail.com,+919800011127,Kochi,Kerala,India,Retail,2025-02-14
+CUST-1135,Shreya,Shah,shreya.shah@hotmail.com,+91-99164-40738,Dubai,Dubai,United Arab Emirates,Corporate,2025-03-30
+CUST-1136,Aanya,Pillai,aanya.pillai@gmail.com,+919954852540,Mumbai,Maharashtra,India,Retail,2025-03-17
+CUST-1137,Rohan,Mukherjee,rohan.mukherjee@proton.me,98320 77572,Hyderabad,Telangana,India,Retail,2024-03-21
+CUST-1138,Sarah,D'Souza,sarah.dsouza@proton.me,96343 66139,Gurugram,Haryana,India,Retail,2025-04-17
+CUST-1139,  lakshmi ,Joshi, LAKSHMI.JOSHI@HOTMAIL.COM,91100 90412,Bengaluru,Karnataka,India,retail,2024-10-21
+CUST-1140,Deepa,Wilson,deepa.wilson@outlook.com,94710 48258,Mumbai,Maharashtra,India,Retail,2025-03-10
+CUST-1141,Siddharth,Joshi,siddharth.joshi@hotmail.com,93139 07621,Ahmedabad,Gujarat,India,Corporate,2024-04-19
+CUST-1142,Myra,D'Souza,myra.dsouza@proton.me,94176 90559,Bengaluru,Karnataka,India,Retail,2026-04-29
+CUST-1143,Karthik,Gill,karthik.gill@yahoo.com,98363 71599,Mumbai,Maharashtra,India,Corporate,2025-09-12
+CUST-1144,Shreya,Chopra,shreya.chopra@yahoo.com,+91-93470-87743,Kolkata,West Bengal,India,Retail,2025-10-13
+CUST-1145,Saanvi,Ali,saanvi.ali@yahoo.com,98740 90950,Gurugram,Haryana,India,SMB,2024-05-20
+CUST-1146,Lakshmi,Mehta,lakshmi.mehta@gmail.com,+919573330302,Bengaluru,Karnataka,India,Retail,2024-05-14
+CUST-1147,Sai,Deshpande,sai.deshpande@yahoo.com,+919288592093,Noida,Uttar Pradesh,India,SMB,2026-06-16
+CUST-1148,Sneha,George,sneha.george@proton.me,+919991713190,Kochi,Kerala,India,Corporate,2025-05-08
+CUST-1149,Riya,Khan,riya.khan@gmail.com,+919180852074,Chennai,Tamil Nadu,India,Corporate,2026-05-30
+CUST-1150,  deepa ,Gill, DEEPA.GILL@PROTON.ME,+919948988297,Bengaluru,Karnataka,India,retail,2024-05-06
+CUST-1906,Meena,Rao,,+919800011125,Kochi,Kerala,India,Retail,2025-06-20
+CUST-1151,Ira,Mukherjee,iramukherjee@outlook.com,+91-99830-63850,Bengaluru,Karnataka,India,Retail,2025-11-22
+CUST-1152,  pari ,Kapoor, PARI.KAPOOR@GMAIL.COM,+919702806585,New Delhi,Delhi,India,smb,2025-10-25
+CUST-1153,Arjun,Malhotra,arjun.malhotra@yahoo.com,+919225279834,Gurugram,Haryana,India,Corporate,2024-11-07
+CUST-1154,Zoya,Iyer,zoya.iyer2@outlook.com,+919245668163,Jaipur,Rajasthan,India,Retail,2026-01-30
+CUST-1155,Siddharth,Wilson,siddharth.wilson@hotmail.com,+919880179899,New Delhi,Delhi,India,Retail,2024-04-11
+CUST-1156,Zoya,Ali,zoya.ali@hotmail.com,+919400368694,Indore,Madhya Pradesh,India,Retail,2025-03-30
+CUST-1157,  manish ,Mukherjee, MANISH.MUKHERJEE@YAHOO.COM,+919836243579,Mumbai,Maharashtra,India,corporate,2025-10-22
+CUST-1914,,,unknown.user@gmail.com,,Bengaluru,Karnataka,India,Retail,2025-04-19
+CUST-1158,Pooja,Singh,pooja.singh@hotmail.com,92311 67999,Bengaluru,Karnataka,India,SMB,2024-04-03
+CUST-1159,Karthik,Bose,karthik.bose@proton.me,91543 08262,Dubai,Dubai,United Arab Emirates,Retail,2024-05-08
+CUST-1160,Joseph,Bose,joseph.bose@gmail.com,+919695076080,Ahmedabad,Gujarat,India,Retail,2026-06-09
+CUST-1161,Pari,Khan,pari.khan@outlook.com,+919739930411,Kolkata,West Bengal,India,Corporate,2024-05-28
+CUST-1162,Ishaan,Wilson,ishaan.wilson@yahoo.com,+91-92180-32515,Kolkata,West Bengal,India,Retail,2024-01-16
+CUST-1163,Pooja,Mukherjee,pooja.mukherjee@proton.me,+919287095435,Bengaluru,Karnataka,India,Retail,2025-03-07
+CUST-1164,Ayesha,Iyer,ayesha.iyer@gmail.com,+919935389432,Chennai,Tamil Nadu,India,Retail,2025-04-07
+CUST-1165,Imran,Chatterjee,imran.chatterjee@proton.me,99409 83577,Mumbai,Maharashtra,India,SMB,2024-11-04
+CUST-1166,Tanvi,Verma,tanvi.verma@gmail.com,+919531233244,London,England,United Kingdom,Retail,2025-12-30
+CUST-1167,Manish,Patel,manish.patel@gmail.com,+919259272239,Bengaluru,Karnataka,India,Retail,2025-10-10
+CUST-1168,Maria,Brown,maria.brown@yahoo.com,+91-97414-44618,Hyderabad,Telangana,India,Retail,2025-09-11
+CUST-1169,Swati,Mehta,swati.mehta@gmail.com,97989 16441,Ahmedabad,Gujarat,India,Retail,2026-06-05
+CUST-1170,Ananya,Agarwal,ananya.agarwal@hotmail.com,+919544328940,Jaipur,Rajasthan,India,Retail,2025-03-01
+CUST-1171,Varun,Mehta,varun.mehta@yahoo.com,+919814154134,Hyderabad,Telangana,India,Corporate,2025-12-04
+CUST-1172,Farhan,Patel,farhan.patel@gmail.com,+919200105056,Ahmedabad,Gujarat,India,SMB,2025-01-16
+CUST-1173,Ishaan,Brown,ishaan.brown@gmail.com,+91-97029-98820,New Delhi,Delhi,India,SMB,2025-02-24
+CUST-1174,Pooja,Agarwal,pooja.agarwal@gmail.com,+919744685429,Dubai,Dubai,United Arab Emirates,Retail,2025-06-03
+CUST-1175,  ananya ,Reddy, ANANYA.REDDY@HOTMAIL.COM,+919216198604,Pune,Maharashtra,India,retail,2024-04-27
+CUST-1176,Omar,Kulkarni,omar.kulkarni@proton.me,95607 55939,Pune,Maharashtra,India,Corporate,2026-04-18
+CUST-1177,Sarah,Ali,sarah.ali@proton.me,98063 40901,Mumbai,Maharashtra,India,Retail,2024-07-03
+CUST-1178,Kiara,Pillai,kiara.pillai@yahoo.com,92947 82734,Bengaluru,Karnataka,India,Retail,2025-02-14
+CUST-1179,Arjun,Reddy,arjun.reddy@gmail.com,+919669601448,Mumbai,Maharashtra,India,Retail,2024-12-15
+CUST-1180,Aanya,Fernandes,aanya.fernandes@yahoo.com,99341 20892,Noida,Uttar Pradesh,India,Retail,2026-06-23
+CUST-1181,Vihaan,Reddy,vihaan.reddy@outlook.com,+91-91534-32064,Kolkata,West Bengal,India,Retail,2025-11-08
+CUST-1182,Swati,Chopra,swati.chopra@proton.me,+919393310667,Hyderabad,Telangana,India,Retail,2024-12-19
+CUST-1183,Swati,Iyer,swati.iyer@yahoo.com,+919736873048,Gurugram,Haryana,India,SMB,2024-02-16
+CUST-1184,  pari ,Gill, PARI.GILL@PROTON.ME,+919319497661,Mumbai,Maharashtra,India,retail,2024-05-20
+CUST-1185,Omar,Joshi,omar.joshi@yahoo.com,+919108299923,Bengaluru,Karnataka,India,Retail,2024-05-12
+CUST-1121,Zoya,Iyer,zoya.iyer@gmail.com,97537 70973,Dubai,Dubai,United Arab Emirates,SMB,2024-11-14
+CUST-1186,Kunal,Wilson,kunal.wilson@outlook.com,+91-99948-07263,Chennai,Tamil Nadu,India,Retail,2025-02-10
+CUST-1187,Shreya,Gupta,shreya.gupta@hotmail.com,91836 04337,Mumbai,Maharashtra,India,Retail,2025-08-10
+CUST-1188,  nikhil ,Sandhu, NIKHIL.SANDHU@YAHOO.COM,91223 94554,Mumbai,Maharashtra,India,retail,2025-09-24
+CUST-1189,Tanvi,Fernandes,tanvi.fernandes@gmail.com,+919213669678,Hyderabad,Telangana,India,Retail,2025-06-20
+CUST-1190,Sai,Gill,sai.gill@yahoo.com,+919337911187,Noida,Uttar Pradesh,India,Retail,2025-06-06
+CUST-1191,Lakshmi,Iyer,lakshmi.iyer@proton.me,+919933468715,Chennai,Tamil Nadu,India,SMB,2026-04-18
+CUST-1192,Venkat,Reddy,venkat.reddy@outlook.com,+919374843786,Mumbai,Maharashtra,India,SMB,2026-02-17
+CUST-1193,Omar,Patel,omar.patel@outlook.com,+919774254861,Chandigarh,Chandigarh,India,SMB,2026-02-17
+CUST-1194,Maria,Bansal,maria.bansal@proton.me,+919770575153,Gurugram,Haryana,India,Corporate,2024-11-19
+CUST-1195,Rohan,Bansal,rohan.bansal@gmail.com,+919777944609,Chennai,Tamil Nadu,India,Retail,2024-02-27
+CUST-1196,Pooja,Thomas,pooja.thomas@gmail.com,+919585238820,Bengaluru,Karnataka,India,Retail,2024-10-20
+CUST-1197,Arjun,Shah,arjun.shah@proton.me,+919512834919,New Delhi,Delhi,India,Retail,2026-03-21
+CUST-1198,Shreya,Gupta,shreya.gupta2@proton.me,+91-94452-36735,Gurugram,Haryana,India,Retail,2024-03-04
+CUST-1199,Manish,Mehta,manish.mehta@yahoo.com,+91-91905-47712,Singapore,,Singapore,Retail,2024-09-10
+CUST-1200,Neha,Bansal,neha.bansal@hotmail.com,+919754773573,Chennai,Tamil Nadu,India,Retail,2024-10-16
+CUST-1901,Rahul,Sharma,maria.kulkarni@gmail.com,+919812345678,Mumbai,Maharashtra,India,Retail,2025-02-11
+CUST-1902,Priya,Mehta,aadhya.thomas@hotmail.com,+919812345679,Pune,Maharashtra,India,SMB,2025-03-19

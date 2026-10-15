@@ -1,0 +1,67 @@
+sku,product_name,category,unit_price,stock_quantity
+SKU-LAP-001,ProBook 14 Laptop i5 16GB,Laptops,62990.00,228
+SKU-LAP-002,ProBook 15 Laptop i7 16GB,Laptops,78990.00,308
+SKU-LAP-003,UltraSlim 13 Laptop i7 32GB,Laptops,104990.00,367
+SKU-LAP-004,WorkStation 16 Laptop Ryzen 9,Laptops,149990.00,218
+SKU-BAD-004,Smart Pen,Accessories,N/A,25
+SKU-LAP-005,Student 14 Laptop i3 8GB,Laptops,38990.00,85
+SKU-LAP-006,Chromebook 11,Laptops,24990.00,353
+SKU-LAP-007,Convertible 2-in-1 Laptop 14,Laptops,71990.00,227
+SKU-MON-001,24 inch FHD IPS Monitor,Monitors,10990.00,179
+SKU-BAD-003,,Accessories,799.00,25
+SKU-MON-002,27 inch QHD IPS Monitor,Monitors,21990.00,228
+SKU-MON-003,27 inch 4K USB-C Monitor,Monitors,34990.00,21
+SKU-MON-004,34 inch Ultrawide Monitor,Monitors,45990.00,372
+SKU-MON-005,22 inch Office Monitor,Monitors,7490.00,180
+SKU-MON-006,Portable 15.6 inch Monitor,Monitors,13990.00,314
+SKU-ACC-001,Wireless Keyboard and Mouse Combo,Accessories,2490.00,222
+SKU-ACC-002,Mechanical Keyboard,Accessories,5990.00,140
+SKU-ACC-003,Ergonomic Wireless Mouse,Accessories,1990.00,327
+SKU-BAD-001,Clearance Speaker,Accessories,-499.00,10
+SKU-ACC-004,USB-C Docking Station,Accessories,12990.00,29
+SKU-ACC-005,Noise Cancelling Headset,Accessories,8990.00,38
+SKU-ACC-006,HD Webcam 1080p,Accessories,3490.00,343
+SKU-ACC-007,Laptop Backpack,Accessories,2290.00,326
+SKU-ACC-008,Laptop Stand Aluminium,Accessories,1790.00,207
+SKU-BAD-005,Wireless Charger,Accessories,1499.00,-5
+SKU-ACC-009,USB-C 65W Charger,Accessories,2790.00,186
+SKU-ACC-010,HDMI Cable 2m,Accessories,590.00,262
+SKU-NET-001,Dual Band WiFi 6 Router,Networking,7990.00,383
+SKU-NET-002,24 Port Gigabit Switch,Networking,18990.00,347
+SKU-NET-003,Mesh WiFi System 3-Pack,Networking,21990.00,81
+SKU-NET-004,Cat6 Ethernet Cable 10m,Networking,690.00,15
+SKU-NET-005,Business Firewall Appliance,Networking,54990.00,73
+SKU-NET-006,PoE Access Point,Networking,11990.00,311
+SKU-STO-001,1TB NVMe SSD,Storage,6990.00,347
+SKU-STO-002,2TB Portable SSD,Storage,13990.00,400
+SKU-STO-003,4TB External Hard Drive,Storage,9490.00,224
+SKU-STO-004,4-Bay NAS Enclosure,Storage,42990.00,17
+SKU-STO-005,128GB USB Flash Drive,Storage,990.00,64
+SKU-PRN-001,Mono Laser Printer,Printers,12990.00,34
+SKU-PRN-002,Colour Laser Multifunction Printer,Printers,32990.00,120
+SKU-PRN-003,Ink Tank Printer,Printers,14490.00,398
+SKU-PRN-004,Document Scanner,Printers,24990.00,330
+SKU-PRN-005,Toner Cartridge Black,Printers,3990.00,187
+SKU-FUR-001,Ergonomic Office Chair,Office Furniture,15990.00,185
+SKU-FUR-002,Height Adjustable Desk,Office Furniture,32990.00,196
+SKU-FUR-003,Executive Desk,Office Furniture,27990.00,290
+SKU-FUR-004,Meeting Table 6-Seater,Office Furniture,39990.00,16
+SKU-FUR-005,Filing Cabinet 3-Drawer,Office Furniture,11490.00,309
+SKU-FUR-006,Monitor Arm Dual,Office Furniture,5490.00,78
+SKU-SFT-001,Office Suite Annual Licence,Software,6490.00,347
+SKU-SFT-002,Antivirus Business 1yr (per seat),Software,1490.00,230
+SKU-SFT-003,Accounting Software Licence,Software,18990.00,189
+SKU-SFT-004,Design Suite Annual Licence,Software,29990.00,190
+SKU-SFT-005,Backup Cloud Storage 1TB 1yr,Software,4990.00,227
+SKU-SFT-006,Project Management Tool 1yr (per seat),Software,3490.00,390
+SKU-MOB-001,Business Smartphone 128GB,Mobiles & Tablets,32990.00,39
+SKU-MOB-002,Tablet 11 inch 128GB,Mobiles & Tablets,41990.00,293
+SKU-MOB-003,Rugged Smartphone,Mobiles & Tablets,27990.00,70
+SKU-MOB-004,Tablet 10 inch 64GB,Mobiles & Tablets,19990.00,271
+SKU-MOB-005,Stylus Pen,Mobiles & Tablets,4990.00,187
+SKU-ACC-011,Wireless Presenter,Accessories,1490.00,203
+SKU-ACC-012,Surge Protector 6-Socket,Accessories,1290.00,160
+SKU-NET-007,UPS 1kVA,Networking,8490.00,332
+SKU-STO-006,Server Rack 12U,Storage,23990.00,142
+SKU-ACC-001,Wireless Keyboard and Mouse Combo v2,Accessories,2590.00,50
+SKU-BAD-002,Refurbished Tablet,Mobiles & Tablets,-12000.00,4

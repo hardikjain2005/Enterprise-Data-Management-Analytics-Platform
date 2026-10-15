@@ -1,0 +1,10 @@
+customer_code,first_name,last_name,email,phone,city,state,country,segment,signup_date
+CUST-1080,Kunal,Menon,kunal.menon@outlook.com,+919854323153,Bengaluru,Karnataka,India,Retail,2026-02-09
+CUST-1034,Swati,Brown,swati.brown@hotmail.com,+91-94167-71692,Gurugram,Haryana,India,Retail,2026-01-23
+CUST-1046,Aditya,Sharma,aditya.sharma@yahoo.com,+919294397388,Bengaluru,Karnataka,India,Retail,2025-03-28
+CUST-1156,Zoya,Ali,zoya.ali@hotmail.com,+91-94786-27603,Noida,Uttar Pradesh,India,Retail,2025-03-30
+CUST-1057,Varun,Menon,varun.menon@hotmail.com,+919577726349,Hyderabad,Telangana,India,Corporate,2024-07-13
+CUST-1201,David,Shah,david.shah@gmail.com,+919943160599,Gurugram,Haryana,India,Retail,2026-10-05
+CUST-1202,Pari,Verma,pari.verma@yahoo.com,+919602227590,Kolkata,West Bengal,India,Retail,2026-09-27
+CUST-1203,Aadhya,Menon,aadhya.menon@gmail.com,+919517744220,Mumbai,Maharashtra,India,Retail,2026-09-27
+CUST-1204,Pooja,George,pooja.george@proton.me,91418 50036,Chennai,Tamil Nadu,India,Retail,2026-09-26
