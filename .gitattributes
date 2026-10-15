@@ -1,0 +1,3 @@
+# GitHub's language statistics (Linguist) treat SQL as a "data" language and
+# skip it by default. This is a database project, so count the SQL files.
+*.sql linguist-detectable=true linguist-language=SQL
